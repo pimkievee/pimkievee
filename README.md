@@ -1,8 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hope Valerie</h1>
-<h3 align="center">A passionate DevOps Engineer From Canada. Welcome to my GitHub repository!</h1>
-
-  
-              Here's a little insight into what you'll find here and what I'm currently up to:
+<h3 align="center">A passionate DevOps Engineer From Canada. Welcome to my GitHub repository! Here's a little insight into what you'll find here and what I'm currently up to:</h3>
 
 - 🔭 Currently working on **I am deeply involved in a Micro-services project where I'm applying various DevOps practices to enhance scalability, reliability, and efficiency.**
 
@@ -10,7 +7,7 @@
 
 - 👯 Looking to collaborate on **I'm eager to collaborate on innovative projects and contribute to open-source initiatives that can make a tangible impact.**
 
-- Projects [You can find all of my projects. Feel free to explore, contribute, or raise issues!](https://github.com/pimkievee)
+- You can find all of my projects. Feel free to explore, contribute, or raise issues! [Microservice](https://github.com/pimkievee/pet-clinic-repo)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pimkievee](https://github.com/pimkievee)
 
