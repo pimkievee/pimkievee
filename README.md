@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Hope Valerie</h1>
-<h3 align="center">A passionate DevOps Engineer From Canada.</h3>
+<h1 align="center">Hi there 👋, I'm Hope Valerie</h1>
+<h3 align="center">A passionate DevOps Engineer From Canada. Welcome to my GitHub repository! Here's a little insight into what you'll find here and what I'm currently up to:</h3>
 
-- 🔭 I’m currently working on **Micro-services project**
+- 🔭 Currently working on **I am deeply involved in a Micro-services project where I'm applying various DevOps practices to enhance scalability, reliability, and efficiency.**
 
-- 🌱 I’m currently learning **GitOps(Argo-CD), Github actions**
+- 🌱 Currently learning **I'm actively diving into GitOps methodologies, particularly using Argo-CD, and exploring the capabilities of GitHub actions to streamline development workflows.**
 
-- 👯 I’m looking to collaborate on **cool Projects and Open-Source**
+- 👯 Looking to collaborate on **I'm eager to collaborate on innovative projects and contribute to open-source initiatives that can make a tangible impact.**
+
+- Projects [You can find all of my projects. Feel free to explore, contribute, or raise issues!](https://github.com/pimkievee)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pimkievee](https://github.com/pimkievee)
 
-- 💬 Ask me about **Jenkins, Kubernetes, Docker, Terraform, Ansible etc.**
+- 💬 Ask me about **I have extensive experience and knowledge in tools like Jenkins, Kubernetes, Docker, Terraform, Ansible, and more. If you have any questions or need assistance, don't hesitate to ask!**
 
-- 📫 How to reach me **hopevalerie27@gmail.com**
+- 📫 Reach me at **You can reach out to me via email at hopevalerie27@gmail.com.**
 
-- 📄 Know about my experiences [resume.cloudswithvalerie.com](resume.cloudswithvalerie.com)
+- To explore my professional background and experiences, you can take a look at my resume on resume. [resume.cloudswithvalerie.com](resume.cloudswithvalerie.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
