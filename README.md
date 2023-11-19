@@ -15,9 +15,7 @@
 
 - 📫 Reach me at **You can reach out to me via email at hopevalerie27@gmail.com.**
 
-- To explore my professional background and experiences, you can take a look at my resume on resume. [https://resume.cloudswithvalerie.com](resume.cloudswithvalerie.com)
-- 📄 **Know about my Experiences:**  
-Explore my experiences on [resume.cloudswithvalerie.com](https://resume.cloudswithvalerie.com).
+- To explore my professional background and experiences, you can look at my resume... [resume.cloudswithvalerie.com](https://resume.cloudswithvalerie.com).
 
 
 <h3 align="left">Connect with me:</h3>
