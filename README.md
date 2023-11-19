@@ -7,7 +7,7 @@
 
 - 👯 Looking to collaborate on **I'm eager to collaborate on innovative projects and contribute to open-source initiatives that can make a tangible impact.**
 
-- You can find all of my projects. Feel free to explore, contribute, or raise issues! [Microservice](https://github.com/pimkievee/pet-clinic-repo)
+- Current Project. Feel free to explore, contribute, or raise issues! [Microservice](https://github.com/pimkievee/pet-clinic-repo)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pimkievee](https://github.com/pimkievee)
 
