@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer From Canada. Welcome to my GitHub repository!</h1>
 
   
-              <h3 align="center">Here's a little insight into what you'll find here and what I'm currently up to:</h1>
+              Here's a little insight into what you'll find here and what I'm currently up to:
 
 - 🔭 Currently working on **I am deeply involved in a Micro-services project where I'm applying various DevOps practices to enhance scalability, reliability, and efficiency.**
 
